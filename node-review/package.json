@@ -1,9 +1,5 @@
 {
-    "name" : "Node practice workshop - Level 100",
-    "scripts" : {
-        
-    },
-    "dependencies" : {
-        
-    }
+  "name": "Node practice workshop - Level 100",
+  "scripts": {},
+  "dependencies": {}
 }
