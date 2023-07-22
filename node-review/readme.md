@@ -1,11 +1,8 @@
-
-
 # Node workshop
 
 In this workshop, we'll build up a NodeJS app from the ground up and check our understanding as we go along.
 
 Remember to preview the `README` first.
-
 
 ## Level 300
 
@@ -32,9 +29,10 @@ Firstly,
 
 Q4) Look inside `app.js`.
 
-On line 12, we need to pass some arguments ( inputs ) to the `server.get` method. 
+On line 12, we need to pass some arguments ( inputs ) to the `server.get` method.
 What type of inputs should we pass to the `server.get` method? Use the express documentation to check your answer.
- 
 
-{YOUR_ANSWER_HERE}
-
+Q1) API stands for Application programming interfaces
+Q2) API is a bridge between different applications to interact
+Q3) Endpoints are routes to different urls
+Q4) it takes two arguments, the first argument is the path, and the second argument is callback function
