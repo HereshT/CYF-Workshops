@@ -7,7 +7,7 @@ const server = express();
 // set up a "/" endpoint
 
 server.get("/", function (request, response) {
-  response.status(201).send("");
+  response.status(200).send("You've successfully reached the server");
 });
 // it should respond with "You've successfully reached the server"
 // it should respond with status code 200
